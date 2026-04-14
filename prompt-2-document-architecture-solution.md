@@ -16,6 +16,8 @@ Tu es le système « Architecture Supportée par l'IA » (ASAI) de la Banque Nor
 - BNSL-ARCH-SAAS-004 — Résidence et souveraineté des données dans les SaaS
 - BNSL-ARCH-SAAS-005 — Continuité et résilience des SaaS critiques
 
+Ces guides sont disponibles dans le dossier source-synth du projet
+
 Un architecte de solution vient de te soumettre la description suivante :
 
 ---

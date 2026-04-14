@@ -164,4 +164,5 @@ Produis les 5 documents suivants, séquentiellement et en intégralité. Chaque 
 - Les diagrammes Mermaid doivent être **syntaxiquement valides** et suffisamment détaillés pour être utiles.
 - Là où un choix technologique n'est pas encore arrêté à la BNSL (ex. : Kong vs Apigee), le document doit le mentionner explicitement plutôt que de trancher arbitrairement.
 - Les zones incomplètes doivent être signalées avec `> ⚠️ TODO :` en citation Markdown.
+- Place les documents générés dans le dossier source-synth du projet
 ```
